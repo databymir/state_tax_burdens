@@ -14,19 +14,19 @@
 * Utilized Matplotlib and Seaborn to create visualizations to complement statistical analysis
 
 ## Table of Contents
-[Authors](#authors)
+* [Authors](#authors)
 
-[Installation](#installation)
+* [Installation](#installation)
 
-[Data](#data)
+* [Data](#data)
 
-[Code](#code)
+* [Code](#code)
 
-[Results](#results)
+* [Results](#results)
 
-[References](#references)
+* [References](#references)
 
-[License](#license)
+* [License](#license)
 
 ## Authors 
 [@databymir] (https://github.com/databymir)
