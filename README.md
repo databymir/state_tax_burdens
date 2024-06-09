@@ -15,11 +15,17 @@
 
 ## Table of Contents
 [Authors](#authors)
+
 [Installation](#installation)
+
 [Data](#data)
+
 [Code](#code)
+
 [Results](#results)
+
 [References](#references)
+
 [License](#license)
 
 ## Authors 
