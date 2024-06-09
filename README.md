@@ -53,15 +53,7 @@ Second, there are a number of differing naming schemes used amongst the datasets
 Third, upon merging the DataFrames, there will still be some string values that need to be converted to a numeric data type.
 
 ## Code
-├── Facts-Figures-2024-State-Tax-Data-Tax-Foundation.xlsx
-
-├── fivethirtyeight_partisan_lean_STATES.csv
-
-├── table_2_salt_burdens_by_state_2022.csv
-
-├── table_2_salt_burdens_by_state_2022.pdf
-
-├── us census bureau regions and divisions.csv
+├── datasets
 
 ├── state_tax_burden.ipynb
 
