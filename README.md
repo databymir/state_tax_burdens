@@ -1,10 +1,10 @@
 # State Tax Burden Analysis
 **This project performs a data analysis of state tax burden data for 2022 in the United States. This includes questions such as:**
-1. Are there insights to be drawn by evaluating the in-state and out-of-state portions of total tax burden?
-2. Does living in a particular area of the United States affect the total tax burden per capita?
-3. Does the partisan lean of a state affect the total tax burden experienced by its citizens?
-4. Does individual income per capita affect total tax burden?
-5. Does living in a state without an individual income tax affect total tax burden? 
+* Are there insights to be drawn by evaluating the in-state and out-of-state portions of total tax burden?
+* Does living in a particular area of the United States affect the total tax burden per capita?
+* Does the partisan lean of a state affect the total tax burden experienced by its citizens?
+* Does individual income per capita affect total tax burden?
+* Does living in a state without an individual income tax affect total tax burden? 
 
 **Highlighted Skills:**
 * Leveraged Python for data manipulation and analysis.
