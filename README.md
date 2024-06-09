@@ -1,10 +1,10 @@
 # State Tax Burden Analysis
 **This project performs a data analysis of state tax burden data for 2022 in the United States to investigate the relationships between tax burden, geography, partisan lean, individual income, and individual income tax collections:**
-* Leveraged Python for data manipulation and analysis.
-* Imported data from multiple sources with different file types.
-* Utilized NumPy and Pandas to prepare and clean data; including to null value removal, cleaning inconsistent values, and merging multiple DataFrames.
-* Computed and analyzed descriptive statistics in Python.
-* Utilized Matplotlib and Seaborn to create visualizations to complement statistical analysis.
+* Leveraged Python for data manipulation and analysis
+* Imported data from multiple sources with different file types
+* Utilized NumPy and Pandas to prepare and clean data; including to null value removal, cleaning inconsistent values, and merging multiple DataFrames
+* Computed and analyzed descriptive statistics in Python
+* Utilized Matplotlib and Seaborn to create visualizations to complement statistical analysis
 
 ## Table of Contents
 * [Authors](#authors)
