@@ -42,10 +42,10 @@ The dataset is composed of information about state taxes, geographical areas, an
 3. Partisan lean data from FiveThirtyEight's "partisan_lean" GitHub repository
 
 ### Data Acquisition
-Part of the tax data was acquired by downloading the .xlsx file from The Tax Foundation's website at https://taxfoundation.org/data/all/state/2024-state-tax-data/.
-The second part of the tax data was acquired by downloading and converting the .pdf file from The Tax Foundation's website at https://taxfoundation.org/data/all/state/tax-burden-by-state-2022/.
-The geographical data was acquired by downloading the .csv file from Chris Halpert's GitHub repository at https://github.com/cphalpert/census-regions.
-The partisan lean data was acquired by downloading the .csv file from FiveThirtyEight's GitHub repository at https://github.com/fivethirtyeight/data/tree/master/partisan-lean.
+* Part of the tax data was acquired by downloading the .xlsx file from The Tax Foundation's website at https://taxfoundation.org/data/all/state/2024-state-tax-data/.
+* The second part of the tax data was acquired by downloading and converting the .pdf file from The Tax Foundation's website at https://taxfoundation.org/data/all/state/tax-burden-by-state-2022/.
+* The geographical data was acquired by downloading the .csv file from Chris Halpert's GitHub repository at https://github.com/cphalpert/census-regions.
+* The partisan lean data was acquired by downloading the .csv file from FiveThirtyEight's GitHub repository at https://github.com/fivethirtyeight/data/tree/master/partisan-lean.
 
 ### Data Preprocessing
 First, a number of empty rows import with the various datasets, which need to be removed.
