@@ -20,18 +20,18 @@
 
 ## Installation
 ### Codes and Resources Used
-Python Version: 3.12.3
-Jupyter Notebook Version: 7.0.6
+* Python Version: 3.12.3
+* Jupyter Notebook Version: 7.0.6
 
 ### Python Packages Used
 #### Data Manipulation
-NumPy Version: 1.26.2
-Pandas Version: 2.1.4
-Functools (as part of standard Python)
+* NumPy Version: 1.26.2
+* Pandas Version: 2.1.4
+* Functools (as part of standard Python)
 
 #### Data Visualization
-Matplotlib Version: 3.8.2
-Seaborn Version: 0.13.2
+* Matplotlib Version: 3.8.2
+* Seaborn Version: 0.13.2
 
 ## Data
 ### Source Data
