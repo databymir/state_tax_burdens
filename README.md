@@ -6,7 +6,7 @@
 * Computed and analyzed descriptive statistics in Python
 * Utilized Matplotlib and Seaborn to create visualizations to complement statistical analysis
 
-Note: An HTML rendering of the project notebook can be viewed at: https://nbviewer.org/github/databymir/state_tax_burdens/blob/main/state_tax_burdens.ipynb.
+Note: An HTML rendering of the project notebook can be viewed [here](https://nbviewer.org/github/databymir/state_tax_burdens/blob/main/state_tax_burdens.ipynb).
 
 ## Table of Contents
 * [Authors](#authors)
