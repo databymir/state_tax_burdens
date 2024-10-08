@@ -6,9 +6,7 @@
 * Computed and analyzed descriptive statistics in Python
 * Utilized Matplotlib and Seaborn to create visualizations to complement statistical analysis
 
-Note:   An HTML rendering of the project notebook can be viewed at: https://nbviewer.org/github/databymir/state_tax_burdens/blob/main/state_tax_burdens.ipynb,
-        the Tableau dashboard can be viewed at: https://public.tableau.com/app/profile/miranda.oliverius/viz/PhotographyBusinessDashboardStory/Dashboard,
-        and the Tableau story can be viewed at: https://public.tableau.com/app/profile/miranda.oliverius/viz/PhotographyBusinessDashboardStory/Story
+Note: An HTML rendering of the project notebook can be viewed at: https://nbviewer.org/github/databymir/state_tax_burdens/blob/main/state_tax_burdens.ipynb.
 
 ## Table of Contents
 * [Authors](#authors)
